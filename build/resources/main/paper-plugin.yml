@@ -1,0 +1,4 @@
+name: MinecraftSoul
+version: '1.0-SNAPSHOT'
+main: org.yeomgun.minecraftSoul.MinecraftSoul
+api-version: '1.21.10'
